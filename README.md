@@ -23,3 +23,8 @@ Lecture Sheets -> Practice Sheets (AI if necessary) -> Repeat
 - [1.notes-AMR](./1.notes-AMR/) - Notes and lecture sheets by AMR (Dr. A.H.M. Mahbubur Rahman) sir.
   - [1.older-notes](./1.older-notes/) - Archived random notes by SKY and students.
 - [2.practice-sheets](./2.practice-sheets/) - Very obvious :3
+- [5.labs](./2.labs/) - Lab lecture sheets, report questions, and other content. Mostly useless since these are different for each section in this semester, but maybe you could do some hands-on practice.
+
+## Labs
+
+Yes, there are labs in this course, and they are primarily based on teaching [Wolfram Mathematica](https://www.wolfram.com/mathematica/).
