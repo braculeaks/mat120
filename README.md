@@ -2,6 +2,9 @@
 <div style="font-size: 1.5em; margin-top: -7px;" align=center>  (Fall 2026)                </div>
 <div style="font-size: 1em;   margin-top:  0px;" align=center>  @ BRAC University, Bangladesh</div>
 
+Theory Section: 4 ([AMR] Dr. A.H.M. Mahbubur Rahman Sir) 
+Lab Section: 4 (Toukir Ahmed Sir)
+
 > [!WARNING]
 > This repository is being continuously updated. Most of the top-resources will be up-to-date, so follow the naming conventions to differentiate between newer and archive stuff.
 
