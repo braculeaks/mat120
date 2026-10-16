@@ -1,8 +1,10 @@
 <h1  style="margin: 0; padding: 0"               align=center>  MAT120               </h1>
 <div style="font-size: 1.5em; margin-top: -7px;" align=center>  (Fall 2026)                </div>
 <div style="font-size: 1em;   margin-top:  0px;" align=center>  @ BRAC University, Bangladesh</div>
+<br>
 
 Theory Section: 4 ([AMR] Dr. A.H.M. Mahbubur Rahman Sir) 
+
 Lab Section: 4 (Toukir Ahmed Sir)
 
 > [!WARNING]
