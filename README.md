@@ -41,3 +41,7 @@ We also have some lab-resources:
 - [3.lab-notes](./3.lab-notes/) - Direct notes for each lab. Recommended to go through.
 
 Before you go through this, it is recommended that you setup [Wolfram Mathematica](https://www.wolfram.com/mathematica/). If you're currently a student who is studying MAT120 in BRACU, your lab-faculty should give you a license.
+
+## Bonus Content
+
+Some content are not needed explicitly just for this course, but could be time-savers during a test or during learning. Those are included in the bonus](./bonus/) directory.
