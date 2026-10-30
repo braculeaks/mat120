@@ -21,6 +21,22 @@ Notes -> Practice Sheets -> Repeat (for each topic)
 >
 > **Good luck studying Integration!**
 
+## Cloning This Repository
+
+1. Before cloning, ensure you have [git-lfs](https://git-lfs.com/) installed.
+
+Then, run the following command to install git-lfs for your user account:
+
+```bash
+git lfs install
+```
+
+2. Clone this repository using the following command:
+
+```bash
+git clone https://github.com/braculeaks/mat120.git
+```
+
 ## Guide
 
 Have a look here (maybe even download):
