@@ -21,6 +21,31 @@ Notes -> Practice Sheets -> Repeat (for each topic)
 >
 > **Good luck studying Integration!**
 
+### Recommended Midterm Study-Order
+
+```
+[Phase 1: Fundamental Tool]
+└── 2. u-Substitution
+
+[Phase 2: Core Integration Techniques]
+├── 6. Trigonometric Integration (Parts 1 & 2)
+├── 4. Integration by Parts
+└── 5. Trigonometric Substitution
+
+[Phase 3: Advanced Midterm Topics]
+├── 8. Improper Integrals
+└── 9. Gamma and Beta Functions
+
+[Phase 4: Applications & Foundations]
+├── 10. Area Between Two Curves
+├── 3. Fundamental Theorem of Calculus & Absolute Values
+└── 1. Riemann Sums & Definite Integrals
+```
+
+### Recommended Final Study-Order
+
+To-be added at the end of Fall 2026.
+
 ## Cloning This Repository
 
 1. Before cloning, ensure you have [git-lfs](https://git-lfs.com/) installed.
