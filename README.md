@@ -33,11 +33,13 @@ Notes -> Practice Sheets -> Repeat (for each topic)
 └── 5. Trigonometric Substitution
 
 [Phase 3: Advanced Midterm Topics]
+├── 7. Partial Fractions
 ├── 8. Improper Integrals
 └── 9. Gamma and Beta Functions
 
 [Phase 4: Applications & Foundations]
 ├── 10. Area Between Two Curves
+├── 11. Arc Length & Surface Area of Revolution
 ├── 3. Fundamental Theorem of Calculus & Absolute Values
 └── 1. Riemann Sums & Definite Integrals
 ```
